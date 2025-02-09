@@ -1,6 +1,6 @@
 ## 程序简介
 
-DeepSeek for Safari 是一款 Safari 浏览器扩展，
+DeepThinker - AI网页分析 是一款 Safari 浏览器扩展，
 通过调用 DeepSeek 的 API，帮助用户对当前网页内容进行分析和互动。
 支持 Chat 形式使用，提供最多 5 个自定义 Prompt，方便用户快速处理不同任务，提升工作效率。
 
