@@ -6,6 +6,12 @@ DeepThinker - AI网页分析 是一款 Safari 浏览器扩展，
 
 ---
 
+## APP Store 下载
+
+https://apps.apple.com/app/deepthinker-ai网页分析/id6741184367
+
+---
+
 ## 使用步骤
 
 1. **设置 API Key 和模型**：
@@ -18,6 +24,7 @@ DeepThinker - AI网页分析 是一款 Safari 浏览器扩展，
 3. **分析页面**：
     - 打开目标网页，点击扩展图标，选择 Prompt 或在 Chat 中输入自定义指令，获取分析结果。
 
+![Capture Chat](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/f7/aa/baf7aa50-f230-971e-caa6-c10c06d1ce28/Capture_Chat.png/643x0w.webp)
 ---
 
 ## 祝使用愉快
